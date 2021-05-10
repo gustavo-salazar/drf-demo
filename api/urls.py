@@ -7,4 +7,5 @@ router.register(r'artists', views.ArtistViewSet)
 
 urlpatterns = [
   path('', include(router.urls)),
+  path(r'lyrics/<str:artist>/<str:song>', views.SongView.as_view()),
 ]
