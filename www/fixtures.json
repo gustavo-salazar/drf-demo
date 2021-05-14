@@ -1,0 +1,11 @@
+[
+  {
+    "model": "www.Lyrics",
+    "fields": {
+      "id": 1,
+      "artist": "queen",
+      "name": "bicycle race",
+      "lyrics": "Bicycle, bicycle, bicycle\nI want to ride my\nBicycle, bicycle, bicycle\nI want to ride my bicycle\nI want to ride my bike\nI want to ride my bicycle\nI want to ride it where I like"
+    }
+  }
+]
